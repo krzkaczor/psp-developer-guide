@@ -27,6 +27,10 @@ C++ support
 --------------
 Don't forget to include `lstdc++` lib in your make file.
 
+MIPS Assembler
+--------------
+???
+
 Examples
 ---------
 [pspSnake](https://github.com/krzKaczor/psp-snake) - frame buffer, input, c++
